@@ -1,4 +1,4 @@
-# Prediction-of-bike-rental-frequency-using-weather-data
+# Prediction-of-weather-using-bike-rental-data
 
 I worked on the project of predicting Seoul’s Temperature. 
 The dataset that used was SeoulBikeSharing dataset. 
